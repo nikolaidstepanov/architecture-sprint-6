@@ -172,4 +172,7 @@ cython_debug/
 
 .DS_Store
 
-*.drawio.backup*
+*.bkp
+*.dtmp
+
+.42c/
